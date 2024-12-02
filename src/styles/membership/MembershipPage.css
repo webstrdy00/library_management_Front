@@ -1,0 +1,11 @@
+.membership-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.membership-page h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
